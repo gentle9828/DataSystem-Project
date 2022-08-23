@@ -18,3 +18,38 @@
 - userProvider.js
 - userRoute.js
 - userService.js
+
+### Store
+- storeController.js
+- storeDao.js
+- storeProvider.js
+- storeRoute.js
+- storeService.js
+
+### Review
+- reviewController.js
+- reviewDao.js
+- reviewProvider.js
+- reviewRoute.js
+- reviewService.js
+
+### Menu
+- menuController.js
+- menuDao.js
+- menuProvider.js
+- menuRoute.js
+- menuService.js
+
+### Category
+- categoryController.js
+- categoryDao.js
+- categoryProvider.js
+- categoryRoute.js
+- categoryService.js
+
+### Basket
+- BasketController.js
+- BasketDao.js
+- BasketProvider.js
+- BasketRoute.js
+- BasketService.js
