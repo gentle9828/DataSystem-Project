@@ -11,3 +11,10 @@
 - Controller: Request를 처리하고 Response 해주는 곳. (Provider/Service에 넘겨주고 다시 받아온 결과값을 형식화), 형식적 Validation
 - Provider/Service: 비즈니스 로직 처리, 의미적 Validation
 - DAO: Data Access Object의 줄임말. Query가 작성되어 있는 곳. 
+
+### User
+- userController.js
+- userDao.js
+- userProvider.js
+- userRoute.js
+- userService.js
