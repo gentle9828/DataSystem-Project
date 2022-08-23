@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05aa8f2f-c109-499b-a8df-10dd3052067c" name="node_js" url="http://3.37.133.187">
+        <fileTransfer rootFolder="/var/www/nodejs-template/api-server-node-js-final" accessType="SFTP" host="3.37.133.187" port="22" sshConfigId="959d0d39-27ef-4710-aee3-0ff3aa0fa153" sshConfig="ubuntu@3.37.133.187:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
