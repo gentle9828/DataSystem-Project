@@ -1,5 +1,5 @@
 ## DataSystem Project
-## 배달의 민족앱의 몇가지 기능을 API 구현
+### 배달의 민족앱의 몇가지 기능을 API 구현
 
 ### Folder Structure
 - `src`: 메인 로직 
