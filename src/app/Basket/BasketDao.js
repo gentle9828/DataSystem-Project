@@ -50,5 +50,6 @@ async function selectBasketIdx(connection, basketIdx) {
 module.exports = {
     selectBasket,
     insertBasketInfo,
-    selectBasketIdx
+    selectBasketIdx,
+    deleteBasket
 };
